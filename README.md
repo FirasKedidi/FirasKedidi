@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
-- 💬 Ask me about **React, Nodejs, Javascript**
+- 💬 Ask me about **React, Nodejs, Javascript, Java**
 
 - 📫 How to reach me **kedidi.firas1@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/firas-kedidi-84b423184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firas-kedidi-84b423184/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/firas-kedidi-84b423184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firas-kedidi-84b423184/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
