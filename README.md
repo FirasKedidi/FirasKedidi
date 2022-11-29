@@ -5,7 +5,7 @@
 ### <div align="center">I'm Firas Kedidi , a full-time full-stack engineer 👨‍💻 passionate about technology 🚀</div>  
   
 
-- 🌱 I’m currently learning Spring boot and Angular  
+- 🌱 I’m currently learning Spring boot, Nextjs and Nestjs  
   
 
 - ❓ Ask me about anything about React, Nodejs, Java  
