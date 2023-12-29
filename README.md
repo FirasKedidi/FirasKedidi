@@ -5,10 +5,10 @@
 ### <div align="center">I'm Firas Kedidi , a full-time full-stack engineer 👨‍💻 passionate about technology 🚀</div>  
   
 
-- 🌱 I’m currently learning Spring boot, Nextjs and Nestjs  
+- 🌱 I’m currently learning go and Angular  
   
 
-- ❓ Ask me about anything about React, Nodejs, Java  
+- ❓ Ask me about anything about React, Nodejs, Java, Spring boot, Docker
   
 
 - 🔭 You can reach me at kedidi.firas1@gmail.com  
